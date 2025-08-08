@@ -1,7 +1,8 @@
 # Day 1: Variables and Data Types
 
 # variables of different types
-age = 30                 # Integer
+print("Enter your age:")
+age = input()            # Integer
 price = 99.99            # Float
 first_name = "Ajinkya"   # String
 is_active = True         # Boolean
