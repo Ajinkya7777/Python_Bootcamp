@@ -1,11 +1,10 @@
 # Day 1: Variables and Data Types
 
 # variables of different types
-print("Enter your age:")
-age = input()            # Integer
-price = 99.99            # Float
-first_name = "Ajinkya"   # String
-is_active = True         # Boolean
+age = input("Enter you age: ")          # Integer
+price = 99.99                           # Float
+first_name = "Ajinkya"                  # String
+is_active = True                        # Boolean
 
 # Printing variable values and types
 #type is used to check type of the data type we are having
